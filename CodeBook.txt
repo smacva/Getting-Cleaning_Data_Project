@@ -1,6 +1,6 @@
 # Code Book
 
-This code book details the Identifiers, Measurements, and Activity Labels data fields in`tidy.txt`.
+This code book details the Identifier, Measurement, and Activity Label data fields in`tidy.txt`.
 
 # Identifiers
 
